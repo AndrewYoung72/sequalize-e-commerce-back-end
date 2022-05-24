@@ -1,5 +1,7 @@
 # sequalize-e-commerce-back-end
 GitHub Link: https://github.com/AndrewYoung72/sequalize-e-commerce-back-end
+Demonstration Video:
+
 
 
 ## Purpose
