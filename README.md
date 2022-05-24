@@ -2,8 +2,8 @@
 GitHub Link: https://github.com/AndrewYoung72/sequalize-e-commerce-back-end
 Demonstration Video:
 
-
-
+[
+](https://user-images.githubusercontent.com/97897877/170097508-2349ad1d-4c7d-42d0-b769-eadaf631ee25.mp4)
 ## Purpose
 The purpose of this challenge was to get us familiar with the fundamental architecture of e-commerce platforms. We were to configure a working Express.js API using Sequalize to interact with our MySQL databse.
 ## Description
